@@ -6,7 +6,7 @@ the host.
 This library provides an easy to use API for Arduino that supports the basic functionality of the
 sensor.
 
-Dependencies: Arduino-WireUtil, Arduino-TimeUtil
+Dependencies: Arduino-Util
 
 Example:
 ~~~~
