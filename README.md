@@ -9,7 +9,7 @@ sensor.
 Dependencies: Arduino-Util
 
 Example:
-~~~~
+~~~~C++
 #include <Si7006.h>
 
 Si7006 temperature_sensor;
